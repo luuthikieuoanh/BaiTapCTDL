@@ -1,0 +1,6 @@
+D:\OanhCute\ViDuPhan2_3\bin\Debug\ViDuPhan2_3.exe.config
+D:\OanhCute\ViDuPhan2_3\bin\Debug\ViDuPhan2_3.exe
+D:\OanhCute\ViDuPhan2_3\bin\Debug\ViDuPhan2_3.pdb
+D:\OanhCute\ViDuPhan2_3\obj\Debug\ViDuPhan2_3.csprojResolveAssemblyReference.cache
+D:\OanhCute\ViDuPhan2_3\obj\Debug\ViDuPhan2_3.exe
+D:\OanhCute\ViDuPhan2_3\obj\Debug\ViDuPhan2_3.pdb
